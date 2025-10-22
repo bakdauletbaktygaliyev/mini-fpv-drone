@@ -56,6 +56,7 @@ export default function JoysticksPanel({
 
 const styles = StyleSheet.create({
 	container: {
+		flex: 1,
 		gap: 24,
 		marginBottom: 24,
 	},
